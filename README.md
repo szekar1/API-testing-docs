@@ -17,6 +17,7 @@ DEED HELP GC - @testinggeek - http://www.qualityperspectives.ca/resources/#mnemo
 
 DVLA PC - @testinggeek - http://www.qualityperspectives.ca/resources/#mnemonics
 
+## Blog posts / videos / presentations
 
 **Maaret Pyhäjärvi** - @maaretp - https://dojo.ministryoftesting.com/dojo/lessons/exploratory-testing-an-api
 
