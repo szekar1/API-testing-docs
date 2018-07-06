@@ -7,6 +7,9 @@ VADER - @LindaSaraRoy - http://europeantestingconference.eu/slides18/Roy.pdf
 
 POISED - @ambertests - https://www.dropbox.com/sh/58jetbs7plwh6s9/AACZq4vePkIfB1r8s5EgYIZha?dl=0&preview=Race--APITestingWithPostman.pptx
 
+TATTA - @2bittester - Mark Winteringham: Say TaTTa to Your TuTTu: https://www.youtube.com/watch?v=8SOu3fQ0Dvs and/or https://www.youtube.com/watch?v=VGNxv9ilFbQ
+
+
 SPEEDLOADS - @Donbavand - https://danieldonbavand.com/testing-speedloads-api-mnemonic/
 
 ICEOVERMAD - @northern_tester - http://testingisbelieving.blogspot.com/2013/11/johnny-mnemonic-iceovermad.html
