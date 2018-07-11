@@ -98,6 +98,10 @@ WTEU-53 – An Introduction to API Testing - http://weekendtesting.com/?p=3898
 
 **Other links**:
 
+HTTP API Development Tools - https://github.com/yosriady/api-development-tools/blob/master/README.md
+
+API-Security-Checklist - https://github.com/shieldfy/API-Security-Checklist/blob/master/README.md
+
 Working with Web APIs - https://launchschool.com/books/working_with_apis
 
 Introduction to HTTP - https://launchschool.com/books/http
