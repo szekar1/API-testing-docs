@@ -102,6 +102,8 @@ HTTP API Development Tools - https://github.com/yosriady/api-development-tools/b
 
 API-Security-Checklist - https://github.com/shieldfy/API-Security-Checklist/blob/master/README.md
 
+The-Ultimate-Checklist-for-REST-APIs - https://www.kennethlange.com/posts/The-Ultimate-Checklist-for-REST-APIs.html
+
 Working with Web APIs - https://launchschool.com/books/working_with_apis
 
 Introduction to HTTP - https://launchschool.com/books/http
