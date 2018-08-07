@@ -68,6 +68,10 @@ https://github.com/ambertests/explore-with-postman and https://www.dropbox.com/s
 
 http://katrinatester.blogspot.com/2015/09/api-web-services-microservices-testing.html
 
+**Mr.Slavchev** - @TheTestingTroll:
+
+Hindsight lessons about API testing - https://mrslavchev.com/2018/08/06/hindsight-lessons-about-api-testing/
+
 
 **Matthew Bretten**
 
