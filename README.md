@@ -10,6 +10,8 @@ POISED - @ambertests - https://www.dropbox.com/sh/58jetbs7plwh6s9/AACZq4vePkIfB1
 TATTA - @2bittester - Mark Winteringham: Say TaTTa to Your TuTTu: https://www.youtube.com/watch?v=8SOu3fQ0Dvs and/or https://www.youtube.com/watch?v=VGNxv9ilFbQ
 
 
+LHTRAFFIC - @bvccaneer - https://szekar1.wordpress.com/2018/09/11/lhtraffic/
+
 SPEEDLOADS - @Donbavand - https://danieldonbavand.com/testing-speedloads-api-mnemonic/
 
 ICEOVERMAD - @northern_tester - http://testingisbelieving.blogspot.com/2013/11/johnny-mnemonic-iceovermad.html
@@ -89,6 +91,9 @@ https://www.slideshare.net/JoEllenCarter/api-fundamentals-mha2017
 
 
 **Mark Winteringham** - https://restful-booker.herokuapp.com/
+
+
+** Matthew Reinbold *** - REST API Notes - https://tinyletter.com/RESTAPINotes/archive
 
 
 Weekend Testing reports on API testing:
