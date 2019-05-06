@@ -22,6 +22,8 @@ DEED HELP GC - @testinggeek - http://www.qualityperspectives.ca/resources/#mnemo
 
 DVLA PC - @testinggeek - http://www.qualityperspectives.ca/resources/#mnemonics
 
+BINMEN (Boundary, Invalid Entries, Nulls, Method, Empty, Negatives) - @gwendiagram & @northern_tester at TestBash Brighton 2017 https://www.ministryoftesting.com/dojo/series/testbash-brighton-2017/lessons/how-to-turn-a-403-into-a-202-at-the-api-party-gwen-diagram-ash-winter
+
 ## Blog posts / videos / presentations
 
 **Maaret Pyhäjärvi** - @maaretp - https://dojo.ministryoftesting.com/dojo/lessons/exploratory-testing-an-api
