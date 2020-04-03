@@ -109,6 +109,8 @@ WTEU-53 – An Introduction to API Testing - http://weekendtesting.com/?p=3898
 
 **Other links**:
 
+All API blog posts that appeared on 5blogs - https://5blogs.wordpress.com/category/api/
+
 API Testing Glossary - https://offbeattesting.com/2018/10/16/api-testing-glossary
 
 HTTP API Development Tools - https://github.com/yosriady/api-development-tools/blob/master/README.md
