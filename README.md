@@ -127,6 +127,8 @@ Your API is bad - https://leanpub.com/yourapiisbad
 
 Learn REST: A RESTful Tutorial - https://www.restapitutorial.com/
 
+REST API description - https://restfulapi.net/
+
 API hierarchy of needs - http://apiux.com/2013/05/29/api-hierarchy-needs/
 
 How to Build a RESTful API with Authentication in 5 minutes - https://medium.freecodecamp.org/build-restful-api-with-authentication-under-5-minutes-using-loopback-by-expressjs-no-programming-31231b8472ca
