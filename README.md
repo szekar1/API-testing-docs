@@ -133,6 +133,8 @@ API hierarchy of needs - http://apiux.com/2013/05/29/api-hierarchy-needs/
 
 How to Build a RESTful API with Authentication in 5 minutes - https://medium.freecodecamp.org/build-restful-api-with-authentication-under-5-minutes-using-loopback-by-expressjs-no-programming-31231b8472ca
 
+Abour Accept-Encoding header - https://szekar1.wordpress.com/2020/07/16/mobile-app-testing-maninthemiddle-can-fool-you/
+
 List of Open Source tools - https://www.joecolantonio.com/2017/05/16/12-open-source-api-testing-tools-rest-soap-services
 
 https://www.inflectra.com/rapise/highlights/api-testing.aspx
@@ -146,3 +148,12 @@ https://blog.udemy.com/api-testing/
 https://dzone.com/articles/7-rules-for-rest-api-uri-design-1
 
 Microsoft REST API Guidelines - https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md
+
+## API Security
+
+https://apisecurity.io/ - learn from other incidents - API Security Newsletter
+
+[PL] https://app.getpocket.com/read/3119547314 - testing API security - list of tricks and tips in polish
+
+OWASP API Security Top 10 2019 - https://github.com/OWASP/API-Security/blob/master/2019/en/dist/owasp-api-security-top-10.pdf
+
